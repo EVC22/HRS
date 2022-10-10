@@ -1,6 +1,6 @@
 # Code for analyzing HRS data. Sep 2018.
 # By: Estefania Vergara (github)
-# Note: for downloading the data into the server run the python code
+# Note: To download the data into the server run the python code
 # The following code assumes that the data has already been downloaded
 
 
